@@ -21,7 +21,7 @@ multi_agent_scoring/ ├── agents/ │   ├── scorer.py │   ├──
 ## 🧪 How to Run
 
 ## 1. Clone the repo:
-   ```bash
+
    git clone https://github.com/Auromirajayakumar/multi_agent_scoring.git
    cd multi_agent_scoring
 ## 2.Create and activate a virtual environment:
@@ -61,3 +61,4 @@ Validator Reasoning: "Score and feedback align with transcript intent."
 
 
 - 
+
