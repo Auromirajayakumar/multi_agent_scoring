@@ -1,6 +1,4 @@
-# 🧠 Multi-Agent Transcript Scoring System
-
-# 🧠 Multi-Agent Transcript Scoring System
+#  Multi-Agent Transcript Scoring System
 
 This project demonstrates how multiple AI agents can work together to evaluate the quality of a written transcript. It simulates how an intelligent tutor might assess a student's response by:
 
@@ -12,7 +10,7 @@ The system is modular, explainable, and built for demo-readiness using FastAPI, 
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Rubric-Based Scoring**: Evaluates clarity, relevance, and depth using a custom scoring agent.
 - **LLM Feedback Agent**: Generates constructive feedback based on the transcript and score.
@@ -26,7 +24,7 @@ multi_agent_scoring/ ├── agents/ │   ├── scorer.py │   ├──
 
 ---
 
-## 🧪 How to Run
+##  How to Run
 
 ## 1. Clone the repo:
 
@@ -67,6 +65,7 @@ Validator Reasoning: "Score and feedback align with transcript intent."
 
 
 - 
+
 
 
 
