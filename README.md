@@ -1,6 +1,14 @@
 # 🧠 Multi-Agent Transcript Scoring System
 
-This project showcases a modular agentic pipeline for evaluating transcript quality using rubric-based scoring, LLM-generated feedback, and validator reasoning. Built with FastAPI, LangChain, and OpenAI.
+# 🧠 Multi-Agent Transcript Scoring System
+
+This project demonstrates how multiple AI agents can work together to evaluate the quality of a written transcript. It simulates how an intelligent tutor might assess a student's response by:
+
+- Scoring it based on clarity, relevance, and depth
+- Generating constructive feedback using an LLM
+- Validating the reasoning behind the score and feedback
+
+The system is modular, explainable, and built for demo-readiness using FastAPI, LangChain, and OpenAI.
 
 ---
 
@@ -59,5 +67,6 @@ Validator Reasoning: "Score and feedback align with transcript intent."
 
 
 - 
+
 
 
