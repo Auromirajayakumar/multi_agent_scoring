@@ -58,7 +58,6 @@ Validator Reasoning: "Score and feedback align with transcript intent."
 
 
 
-
-
 - 
+
 
